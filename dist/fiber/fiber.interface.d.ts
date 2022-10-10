@@ -1,0 +1,3 @@
+interface FiberInterface {
+    sibiling: HTMLElement;
+}
